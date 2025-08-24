@@ -4,7 +4,9 @@
 It displays the current time in HH:MM:SS format and updates every second.</div>
 <br>
 <h2>🖼️ Preview</h2>
-![Digital Clock Screenshot](screenshot.png)
+<p align="center">
+  <img src="screenshot.png" width="400">
+</p>
 <br>
 <h2>🚀 Features</h2>
 <ul>
