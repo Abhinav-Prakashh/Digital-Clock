@@ -1,0 +1,27 @@
+* {
+    background-color: #0F0E0E;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.clock {
+    font-size: 10rem;
+    text-shadow: 0 0 10px #9000ff;
+    color: #D3DAD9;
+    background: #2d2c31;
+    height: 500px;
+    width: 1000px;
+    border: 5px solid #5c5c69;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
