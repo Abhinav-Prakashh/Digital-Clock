@@ -3,6 +3,9 @@
 <div>A simple digital clock built with HTML, CSS, and JavaScript.
 It displays the current time in HH:MM:SS format and updates every second.</div>
 <br>
+<h2>🖼️ Preview</h2>
+![Digital Clock Screenshot](screenshot.png)
+<br>
 <h2>🚀 Features</h2>
 <ul>
   <li>Real-time updating clock</li>
@@ -22,7 +25,7 @@ It displays the current time in HH:MM:SS format and updates every second.</div>
 <ol>
   <li>Clone or download this repository.</li>
   <li>Open index.html in your browser.</li>
-  <li></li>The clock will start automatically.</li>
+  <li>The clock will start automatically.</li>
 </ol>
 <br>
 <h2>📜 License</h2>
